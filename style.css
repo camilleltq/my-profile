@@ -1,0 +1,26 @@
+body {
+	background-color: rgb(249,223,220);
+	font-family: Times, monospace;
+	font-size: 16px;
+	line-height: 1.8;
+	letter-spacing: 1px;
+	color: rgb(10,129,171);
+	font-weight:bold;
+}
+h1 {
+	color:rgb(0,0,0);
+	 width: 350px; /* set the width of your container */
+  margin: 40px auto; /* set margins: top/bottom: 40px; left/right: automatic */
+}
+h2 {
+	color: rgb(12,66,113);
+}
+h1, h2 {
+  font-weight: bold;
+}
+div {
+	display: block;
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	width: 500px;
+	margin: 0px auto;
+}
